@@ -42,7 +42,7 @@ int main()
 
 # OUTPUT:
 
-<img width="347" alt="image" src="https://github.com/user-attachments/assets/3d4a60e8-056e-42e1-9639-659e37f1ac81">
+![Screenshot 2025-04-16 093404](https://github.com/user-attachments/assets/26a9a2d7-a2d5-41fa-b8dc-5d92fc1e6885)
 
 
 # RESULT:
